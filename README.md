@@ -1,2 +1,3 @@
 kyrgyzstan-
 ===========
+Central Asia
